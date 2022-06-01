@@ -11,4 +11,4 @@ Now, You will move to the chat box
 
 Where you can create a group and add friends to that group and start a group chat
 
-Watch Chat_app_demo.mp4 video for more clarity
+Watch Chat_app_demo.mp4 video in this repo for more clarity
